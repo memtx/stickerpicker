@@ -1,6 +1,6 @@
 # Generated in setup.py
 
 git_tag = None
-git_revision = '55c958d1'
-version = '0.1.0+dev.55c958d1'
-linkified_version = '0.1.0+dev.[55c958d1](https://github.com/maunium/stickerpicker/commit/55c958d16a2ba964ac13f41c0aeface37b70f26a)'
+git_revision = 'aa8616a4'
+version = '0.1.0+dev.aa8616a4'
+linkified_version = '0.1.0+dev.[aa8616a4](https://github.com/maunium/stickerpicker/commit/aa8616a40acd2fbc31a4ed83f85edd6ac19035c8)'
